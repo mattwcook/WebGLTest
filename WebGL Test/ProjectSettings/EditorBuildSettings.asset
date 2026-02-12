@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/WebGLSpeech/Scenes/Example01_Dictation_Synthesis.unity
+    guid: 56d9d0cfba2f150429b6f9d2bb92e00b
+  - enabled: 0
+    path: Assets/TranscriptionWebGL/Scenes/VoiceCommandsDemo.unity
+    guid: c28325b667e7fa44492790ef2e7bae25
+  - enabled: 1
+    path: Assets/TranscriptionWebGL/Scenes/TranscriptionDemo.unity
+    guid: 40f9966fa18328a4ea79fcca557cbf68
   m_configObjects: {}
